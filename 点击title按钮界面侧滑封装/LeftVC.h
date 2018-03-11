@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LeftVC.h
 //  点击title按钮界面侧滑封装
 //
 //  Created by 曹轩 on 2018/3/8.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface LeftVC : UIViewController
 
 @end
